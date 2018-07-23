@@ -1,14 +1,5 @@
-var Point = /** @class */ (function () {
-    function Point() {
-    }
-    Point.prototype.draw = function () {
-        console.log('X: ' + this.x + ', Y: ' + this.y);
-    };
-    Point.prototype.getDistance = function (another) {
-    };
-    return Point;
-}());
-var point = new Point();
-point.x = 1;
-point.y = 5;
-point.draw();
+import { Like } from './Likes';
+let likes = new Like(12);
+likes.click();
+likes.like = 18;
+console.log(likes.like);

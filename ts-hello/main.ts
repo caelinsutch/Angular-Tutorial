@@ -1,19 +1,10 @@
 
-class Point {
-    x: number;
-    y: number;
+import { Like } from './Likes';
 
-    draw() {
-        console.log('X: ' + this.x + ', Y: ' + this.y);
-    }
+let likes = new Like(12);
 
-    getDistance(another: Point) {
+likes.click();
 
-    }
+likes.like = 18;
 
-}
-
-let point = new Point();
-point.x = 1;
-point.y = 5;
-point.draw();
+console.log(likes.like);
