@@ -1,19 +1,7 @@
 
-class Point {
-    x: number;
-    y: number;
+import { LikeComponent } from "./like";
 
-    draw() {
-        console.log('X: ' + this.x + ', Y: ' + this.y);
-    }
+let component = new LikeComponent(10, true);
 
-    getDistance(another: Point) {
-
-    }
-
-}
-
-let point = new Point();
-point.x = 1;
-point.y = 5;
-point.draw();
+component.onClick();
+console.log(`likesCount ${component.likesCount}, isSelected: ${component.isSelected}`);
