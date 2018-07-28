@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96123f0c-5108-4574-a75a-5bf7e6645346" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ts-hello/Likes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-hello/Likes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts-hello/point.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/data-form/data-form.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/data-form/data-form.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/data-form/data-form.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/data-form/data-form.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/title-case.pipe.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/app/title-case.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-transformer/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-hello/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ts-hello/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts-hello/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts-hello/main.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,90 +15,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="angular.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignment4/angular.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="624">
-                  <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignment4/src/app/app.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="55" selection-start-column="55" selection-end-column="55" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="like.component.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignment4/src/app/like/like.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <folding>
-                    <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assignment4/src/app/app.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="504">
-                  <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="like.component.ts" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignment4/src/app/like/like.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="216">
-                  <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ts-hello/main.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="24">
-                  <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="like.ts" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ts-hello/like.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="480">
-                  <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ts-hello/main.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment5/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zippy.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment5/src/app/zippy/zippy.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zippy.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment5/src/app/zippy/zippy.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="74" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zippy.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment5/src/app/zippy/zippy.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -202,6 +114,13 @@
         <option value="$PROJECT_DIR$/assignment4/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/ts-hello/main.ts" />
         <option value="$PROJECT_DIR$/ts-hello/main.js" />
+        <option value="$PROJECT_DIR$/section6/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/section6/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/section6/src/app/input-format.directive.ts" />
+        <option value="$PROJECT_DIR$/assignment5/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/assignment5/src/app/zippy/zippy.component.css" />
+        <option value="$PROJECT_DIR$/assignment5/src/app/zippy/zippy.component.html" />
+        <option value="$PROJECT_DIR$/assignment5/src/app/zippy/zippy.component.ts" />
       </list>
     </option>
   </component>
@@ -214,27 +133,29 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/Author-Generator/node_modules" />
     <handled-path value="$PROJECT_DIR$/assignment4/node_modules" />
+    <handled-path value="$PROJECT_DIR$/assignment5/node_modules" />
     <handled-path value="$PROJECT_DIR$/favorite/node_modules" />
     <handled-path value="$PROJECT_DIR$/firstapp/node_modules" />
     <handled-path value="$PROJECT_DIR$/pipe-practice/node_modules" />
+    <handled-path value="$PROJECT_DIR$/section6/node_modules" />
     <handled-path value="$PROJECT_DIR$/star/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/Author-Generator/package.json" />
       <path value="$PROJECT_DIR$/assignment4/package.json" />
+      <path value="$PROJECT_DIR$/assignment5/package.json" />
       <path value="$PROJECT_DIR$/favorite/package.json" />
       <path value="$PROJECT_DIR$/firstapp/package.json" />
       <path value="$PROJECT_DIR$/pipe-practice/package.json" />
+      <path value="$PROJECT_DIR$/section6/package.json" />
       <path value="$PROJECT_DIR$/star/package.json" />
       <path value="$PROJECT_DIR$/type-transformer/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1125" />
-    <option name="y" value="275" />
-    <option name="width" value="1070" />
-    <option name="height" value="1499" />
+    <option name="width" value="1920" />
+    <option name="height" value="2160" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -265,13 +186,28 @@
             <path>
               <item name="Angular-Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="Angular-Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="ts-hello" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Angular-Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="Angular-Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="ts-hello" type="462c0819:PsiDirectoryNode" />
-              <item name="main.ts" type="620a8d5e:NestingTreeNode" />
+              <item name="assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-Tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-Tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="zippy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,7 +222,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="ics" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/firstapp/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/assignment4/node_modules/typescript/lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -315,26 +251,27 @@
       <workItem from="1532116909142" duration="5384000" />
       <workItem from="1532127216228" duration="2518000" />
       <workItem from="1532129744119" duration="3485000" />
-      <workItem from="1532628722372" duration="10813000" />
+      <workItem from="1532628722372" duration="10860000" />
+      <workItem from="1532746655125" duration="6317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27737000" />
+    <option name="totallyTimeSpent" value="34101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="3840" height="2160" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07911973" />
+      <window_info anchor="bottom" id="TypeScript" order="7" weight="0.32951146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07911973" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500131" side_tool="true" weight="0.32953984" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500393" side_tool="true" weight="0.32951146" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49986902" visible="true" weight="0.32951146" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49960703" visible="true" weight="0.32951146" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -360,27 +297,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hello-world/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts" />
-    <entry file="file://$PROJECT_DIR$/hello-world/src/app/course/course.component.html" />
-    <entry file="file://$PROJECT_DIR$/hello-world/src/app/course/course.component.ts" />
-    <entry file="file://$PROJECT_DIR$/hello-world/src/app/app.module.ts" />
-    <entry file="file://$PROJECT_DIR$/firstapp/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstapp/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstapp/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Author-Generator/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -540,9 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,9 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -581,9 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,9 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -604,13 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment4/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -625,9 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,6 +529,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorite/src/app/favorite/favorite.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment4/src/app/like/like.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment4/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -654,31 +569,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/favorite/src/app/favorite/favorite.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment4/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment4/src/app/like/like.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ts-hello/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="456">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -689,10 +583,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ts-hello/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ts-hello/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section6/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section6/src/app/input-format.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section6/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/src/app/zippy/zippy.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/src/app/zippy/zippy.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="74" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5/src/app/zippy/zippy.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
     </entry>
